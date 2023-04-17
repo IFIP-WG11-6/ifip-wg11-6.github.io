@@ -54,7 +54,7 @@ plugins:
 
 author:
   name   : "IFIP WG11.6"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/ifipwg11-6.png"
   bio    : "IFIP Working Group on Identity Management"
   links:
 #    - label: "Website"
