@@ -71,7 +71,8 @@ author:
 #      url: "https://instagram.com/"
 
 footer:
-  - label: "Privacy Policy"
+  links:
+    - label: "Privacy Policy"
       url: "/privacy_policy/"
 
 
