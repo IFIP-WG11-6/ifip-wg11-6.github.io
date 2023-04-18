@@ -7,6 +7,7 @@ title: "Members"
 * Chair: Stephan Krenn, [AIT Austrian Institute of Technology GmbH](https://www.ait.ac.at/), Austria
 * Vice chair: [Denis Royer](https://www.ostfalia.de/cms/de/pws/royer/), [Ostfalia University of Applied Sciences](https://www.ostfalia.de/en/), Germany
 * Secretary: [Henrich C. Pöhls](https://henrich.poehls.com/), [University of Passau](https://www.uni-passau.de/en/), Germany
+
 ## Members
 tbd
 
