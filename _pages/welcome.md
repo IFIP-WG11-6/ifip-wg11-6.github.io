@@ -2,6 +2,8 @@
 title: "IFIP WG11.6 - Identity Management"
 permalink: /
 header:
+  title : "Welcome to IFIP WG11.6 - Identity Management"
+
   overlay_image: /assets/images/lego.png
   image_description: "IFIP WG11.6 - Identity Management"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
