@@ -37,4 +37,4 @@ In the past, WG 11.6 also arranged the IFIP 11.6's IDMAN as a series of IFIP wor
 The following three conferences have been organized:
 * [IFIP IDMAN 2007](https://dl.ifip.org/db/conf/idman/idman2007/index.html), Rotterdam, The Netherlands
 * [IFIP IDMAN 2010](https://dl.ifip.org/db/conf/idman/idman2010/index.html), Oslo, Norway
-* [IFIP IDMAN 2013](http://www.idman2013.com/)), London, UK
+* [IFIP IDMAN 2013](http://www.idman2013.com/), London, UK
