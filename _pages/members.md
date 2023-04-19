@@ -13,12 +13,12 @@ tbd
 
 ## Past Officers
 * 2006-2010 
- * Chair: Elisabeth de Leeuw
- * Vice chair: [Simone Fischer-Hübner](https://www.kau.se/en/researchers/simone-fischer-hubner)
+  * Chair: Elisabeth de Leeuw
+  * Vice chair: [Simone Fischer-Hübner](https://www.kau.se/en/researchers/simone-fischer-hubner)
 * 2011-2014
- * Chair: Simone Fischer-Hübner
- * Vice chair: Elisabeth de Leeuw
- * Secretary: [Lothar Fritsch](https://www.oslomet.no/en/about/employee/lotharfr/)
+  * Chair: Simone Fischer-Hübner
+  * Vice chair: Elisabeth de Leeuw
+  * Secretary: [Lothar Fritsch](https://www.oslomet.no/en/about/employee/lotharfr/)
 * 2015-2019
- * Chair: Simone Fischer-Hübner
- * Vice chair: Lothar Fritsch
+  * Chair: Simone Fischer-Hübner
+  * Vice chair: Lothar Fritsch
