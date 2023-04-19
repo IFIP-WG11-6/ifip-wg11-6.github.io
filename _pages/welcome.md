@@ -27,3 +27,6 @@ values:
 [IFIP](https://ifip.org/) is the International Federation for Information Processing.
 [IFIP TC11](https://www.ifiptc11.org/) is the Technical Committee on **Security and Privacy Protection in Information Processing Systems**.
 Among its 14 working groups, WG11.6 is focusing on all aspects of **identity management**.
+
+**Coming Up:** The 18th IFIP Summer School on Privacy and Identity Management will take place in Oslo, Norway, on August 8-11, 2023. Click [here](https://ifip-summerschool.org) to find out more!
+{: .notice--info}
