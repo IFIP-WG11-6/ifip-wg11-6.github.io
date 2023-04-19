@@ -2,13 +2,13 @@
 title: "IFIP WG11.6 - Identity Management"
 permalink: /
 header:
-  image: /assets/images/lego.png
+  overlay_image: /assets/images/lego.png
   image_description: "IFIP WG11.6 - Identity Management"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+#  caption: "" # e.g., include photo credit
 #  actions:
 #    - label: "More Info"
-#      url: "https://unsplash.com"
+#      url: "whatever" #would put a button with a link
 
 logos:
   - url: /assets/images/IFIPWG11-6.png
